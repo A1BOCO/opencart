@@ -1,0 +1,78 @@
+23:06:14.746 [main] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+23:06:14.904 [main] INFO  testCase.TC_001_AutomationTest - clicked on my account
+23:06:15.174 [main] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+23:06:15.747 [main] INFO  testCase.TC_001_AutomationTest - clicked on continue
+07:48:02.551 [main] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+07:48:02.642 [main] INFO  testCase.TC_001_AutomationTest - clicked on my account
+07:48:02.878 [main] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+07:48:03.450 [main] INFO  testCase.TC_001_AutomationTest - clicked on continue
+07:48:50.569 [main] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+07:48:50.709 [main] INFO  testCase.TC_001_AutomationTest - clicked on my account
+07:48:51.110 [main] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+07:48:51.658 [main] INFO  testCase.TC_001_AutomationTest - clicked on continue
+15:27:04.308 [main] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+15:27:04.416 [main] INFO  testCase.TC_001_AutomationTest - clicked on my account
+15:27:04.657 [main] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+15:27:05.204 [main] INFO  testCase.TC_001_AutomationTest - clicked on continue
+15:35:11.044 [main] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+15:35:11.426 [main] INFO  testCase.TC_001_AutomationTest - clicked on my account
+15:35:11.641 [main] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+15:35:12.163 [main] INFO  testCase.TC_001_AutomationTest - clicked on continue
+15:39:09.980 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+15:39:10.080 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on my account
+15:39:10.327 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+15:39:10.880 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on continue
+11:39:48.651 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+11:39:48.759 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on my account
+11:39:49.013 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+11:39:49.592 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on continue
+12:09:40.394 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+12:09:40.788 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on my account
+12:09:41.031 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+12:09:41.642 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on continue
+12:11:05.450 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+12:11:05.523 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on my account
+12:11:05.739 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+12:11:06.174 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on continue
+12:13:34.958 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+12:13:35.278 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on my account
+12:13:35.490 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+12:13:35.915 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on continue
+12:16:06.113 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+12:16:06.245 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on my account
+12:16:06.611 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+12:16:07.042 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on continue
+12:17:00.846 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+12:17:00.922 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on my account
+12:17:01.121 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+12:17:01.620 [TestNG-tests-1] INFO  testCase.TC_001_AutomationTest - clicked on continue
+12:23:36.244 [main] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+12:23:36.340 [main] INFO  testCase.TC_001_AutomationTest - clicked on my account
+12:23:36.571 [main] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+12:23:37.074 [main] INFO  testCase.TC_001_AutomationTest - clicked on continue
+16:11:34.963 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+16:14:28.281 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+16:15:29.769 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+17:05:51.050 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+17:06:00.177 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:06:00.879 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:06:01.652 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:06:02.351 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+17:06:03.068 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:51:37.461 [main] INFO  testCase.TC_001_AutomationTest - *** starting TC_001_AccountRegistrationTest ***
+21:51:37.666 [main] INFO  testCase.TC_001_AutomationTest - clicked on my account
+21:51:37.935 [main] INFO  testCase.TC_001_AutomationTest - Clicked on register link
+21:51:38.629 [main] INFO  testCase.TC_001_AutomationTest - clicked on continue
+21:57:57.675 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+21:58:07.013 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:58:07.748 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:58:08.304 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:58:08.876 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+21:58:09.408 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+14:42:56.023 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+15:02:34.195 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+15:02:43.100 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+15:02:43.759 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+15:02:44.325 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+15:02:44.863 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+15:02:45.405 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
