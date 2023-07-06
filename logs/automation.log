@@ -76,3 +76,5 @@
 15:02:44.325 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
 15:02:44.863 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
 15:02:45.405 [main] INFO  testCase.TC_003_LoginDDT - *** Starting TC_003_LoginDDT ***
+22:18:55.676 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
+22:20:32.114 [main] INFO  testCase.TC_002_LoginTest - starting TC_002 testcase
